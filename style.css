@@ -371,26 +371,26 @@
 }
 
 #project1{
-    background-image: url(Screenshot (202).png);
+    background-image: url(Screenshot%20(202).png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #project2{
-    background-image: url(Screenshot (219).png);
+    background-image: url(Screenshot%20(219).png);
     background-size: cover;
     background-repeat: no-repeat;
     margin-left: 7.5rem;
 }
 
 #project3{
-    background-image: url(Screenshot (220).png);
+    background-image: url(Screenshot%20(220).png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #project4{
-    background-image: url(Screenshot (221).png);
+    background-image: url(Screenshot%20(221).png);
     background-size: cover;
     background-repeat: no-repeat;
     margin-left: 7.5rem;
